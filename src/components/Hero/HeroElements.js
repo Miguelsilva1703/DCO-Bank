@@ -28,7 +28,7 @@ export const VideoBg = styled.video`
     -o-object-fit: cover;
     object-fit: cover;
     background: #232a34;
-    filter: brightness(45%);
+    filter: brightness(35%);
 `;
 
 export const HeroContents = styled.div`
@@ -47,11 +47,14 @@ export const HeroContents = styled.div`
     h1 {
         color: #d5d5d5;
         font-size: 3rem;
+        border-bottom: 2px solid #fff;
     }
     p {
         color: #00b0ff;
         font-size: 1.5rem;
-        text-decoration: underline;
+
+        text-align: center;
+        max-width: 600px;
     }
 `;
 

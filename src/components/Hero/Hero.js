@@ -17,7 +17,7 @@ const Hero = () => {
             <Container>
                 <Row>
                     <HeroContents>
-                        <h1>Virtual Banking Made easy</h1>
+                        <h1>Virtual Banking Made Easy</h1>
                         <p>Sign up for a new account today and received £200 in credit towards your next payment.</p>
                         <HeroBtnWrapper>
                             <HeroButton to="signup" onMouseEnter={onHover} onMouseLeave={onHover} primary="true" dark="true" smooth={true} duration={500} spy={true} exact="true" offset={-80}>
