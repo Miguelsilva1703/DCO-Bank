@@ -7,7 +7,7 @@ export const HeroSection = styled.section`
     justify-content: center;
     align-items: center;
     padding: 0 30px;
-    height: 100vh;
+    height: 110vh;
     position: relative;
     z-index: 1;
 `;

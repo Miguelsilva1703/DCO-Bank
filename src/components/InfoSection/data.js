@@ -25,7 +25,7 @@ export const InfoTwo = {
     description: "We have you covered no matter where you are located. All you need is an internet connection and phone or computer.",
     buttonLabel: "Learn More",
     imgStart: true,
-    img: require("../../img/svg-2.svg").default,
+    img: require("../../img/auth.svg").default,
     alt: "Wallet",
     dark: false,
     primary: false,

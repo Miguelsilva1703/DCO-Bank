@@ -27,3 +27,14 @@ const Home = () => {
 };
 
 export default Home;
+
+/*
+            <Navbar toggle={toggle} />
+            <Hero />
+            <Info {...InfoOne} />
+            <Info {...InfoTwo} />
+            <Services />
+            <Info {...InfoThree} />
+            <Footer />
+            
+            */

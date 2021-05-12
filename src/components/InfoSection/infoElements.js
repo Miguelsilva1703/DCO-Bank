@@ -3,8 +3,8 @@ import { Link } from "react-scroll";
 
 export const InfoContainer = styled.section`
     color: #fff;
-    background: ${({ lightBg }) => (lightBg ? "#f9f9f9" : "#010606")};
-    height: 110vh;
+    background: ${({ lightBg }) => (lightBg ? "#D6D6D6" : "#010606")};
+    height: 120vh;
     position: relative;
 
     @media screen and (max-width: 768px) {
